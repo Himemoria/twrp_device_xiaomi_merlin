@@ -115,6 +115,7 @@ TW_INCLUDE_CRYPTO_FBE := true
 TW_USE_FSCRYPT_POLICY := 1
 
 # TWRP Configuration
+TW_DEVICE_VERSION := Redmi Note 9
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
